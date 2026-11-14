@@ -72,4 +72,3 @@ data/                 sample CSV
 
 ---
 
-*Built with AI assistance (Claude) as a learning and portfolio project.*
