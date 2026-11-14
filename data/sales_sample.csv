@@ -1,0 +1,23 @@
+date,sku,product,quantity,unit_price
+2026-03-02,MILK-1L,Milk 1L,14,1.19
+2026-03-02,BREAD-500,Whole grain bread,9,2.49
+2026-03-02,APPLE-KG,Apples 1kg,6,2.99
+2026-03-02,COFFEE-250,Ground coffee 250g,4,5.49
+2026-03-02,WATER-1.5,Still water 1.5L,22,0.69
+2026-03-03,MILK-1L,Milk 1L,11,1.19
+2026-03-03,EGGS-10,"Eggs, free range (10 pcs)",7,2.99
+2026-03-03,BREAD-500,Whole grain bread,12,2.49
+2026-03-03,COFFEE-250,Ground coffee 250g,6,5.49
+2026-03-03,CHEESE-200,Gouda cheese 200g,5,2.79
+2026-03-04,MILK-1L,Milk 1L,16,1.19
+2026-03-04,APPLE-KG,Apples 1kg,8,2.99
+2026-03-04,WATER-1.5,Still water 1.5L,30,0.69
+2026-03-04,EGGS-10,"Eggs, free range (10 pcs)",5,2.99
+2026-03-04,BANANA-KG,Bananas 1kg,0,1.49
+2026-03-04,CHEESE-200,Gouda cheese 200g,3,2.79
+2026-03-05,COFFEE-250,Ground coffee 250g,7,5.49
+2026-03-05,BREAD-500,Whole grain bread,10,2.49
+2026-03-05,MILK-1L,Milk 1L,13,1.19
+2026-03-05,WATER-1.5,Still water 1.5L,18,0.69
+2026-03-05,EGGS-10,"Eggs, free range (10 pcs)",6,2.99
+2026-3-06,APPLE-KG,Apples 1kg,4,2.99
